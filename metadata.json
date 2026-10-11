@@ -1,0 +1,6 @@
+{
+  "name": "Tara’s Dental Advanced Clinic",
+  "description": "Premium appointment booking and official website for Tara’s Dental Advanced Clinic, Sir M V Road, Shivamogga, Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

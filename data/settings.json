@@ -1,0 +1,26 @@
+{
+  "name": "Tara’s Dental Advanced Clinic",
+  "category": "Dental Clinic",
+  "phone": "+91 63623 78425",
+  "address_street": "Sir M V Road, Savlanga Road",
+  "address_landmark": "Opposite Karnataka Bank",
+  "address_city": "Shivamogga",
+  "address_state": "Karnataka",
+  "address_pincode": "577201",
+  "rating": 4.7,
+  "review_count": 50,
+  "timings": [
+    { "day": "Monday", "dayIndex": 1, "openTime": "09:30", "closeTime": "20:30", "display": "9:30 AM – 8:30 PM" },
+    { "day": "Tuesday", "dayIndex": 2, "openTime": "09:30", "closeTime": "20:30", "display": "9:30 AM – 8:30 PM" },
+    { "day": "Wednesday", "dayIndex": 3, "openTime": "09:30", "closeTime": "20:30", "display": "9:30 AM – 8:30 PM" },
+    { "day": "Thursday", "dayIndex": 4, "openTime": "09:30", "closeTime": "20:30", "display": "9:30 AM – 8:30 PM" },
+    { "day": "Friday", "dayIndex": 5, "openTime": "09:30", "closeTime": "20:30", "display": "9:30 AM – 8:30 PM" },
+    { "day": "Saturday", "dayIndex": 6, "openTime": "09:30", "closeTime": "20:30", "display": "9:30 AM – 8:30 PM" },
+    { "day": "Sunday", "dayIndex": 0, "openTime": "10:30", "closeTime": "14:30", "display": "10:30 AM – 2:30 PM" }
+  ],
+  "slot_duration_minutes": 30,
+  "buffer_minutes": 0,
+  "closed_dates": [],
+  "about_text": "Tara’s Dental Advanced Clinic is a modern dental care centre located on Sir M V Road (Savlanga Road, opposite Karnataka Bank) in Shivamogga, Karnataka. We are dedicated to providing patient-centered dental care focused on oral hygiene, comfort, and personalized attention in a clean, state-of-the-art clinical environment.",
+  "admin_passcode": "tara2026"
+}
